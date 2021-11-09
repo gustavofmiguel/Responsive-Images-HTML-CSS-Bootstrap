@@ -19,3 +19,4 @@ Exercicio feito no Modulo de Desenvolvimento no curso Técnico em Infomática
 ### Tipos de Botões:
 <p float="left">
 <img src="https://cdn.discordapp.com/attachments/879870124813856819/907732639119708190/unknown.png" width="700" hegth="700" alt="print da tela com as imagens responsivas"/>
+<hr>

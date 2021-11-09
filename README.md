@@ -14,6 +14,8 @@ Exercicio feito no Modulo de Desenvolvimento no curso Técninco em Infomática
 
 <p float="left">
 <img src="https://media.discordapp.net/attachments/879870124813856819/907732562296848394/unknown.png?width=728&height=429" width="700" hegth="700" alt="print da tela com as imagens responsivas"/>
+<br><br>
+Tipos de Botões
 <br>
 <p float="left">
 <img src="https://cdn.discordapp.com/attachments/879870124813856819/907732639119708190/unknown.png" width="700" hegth="700" alt="print da tela com as imagens responsivas"/>

@@ -1,7 +1,7 @@
 #  Imagens Responsivas e Botões
 
-Imagens responsivas com o tamnho da tela e tipos de botões padrão com introdução ao Bootstrap <br>
-Exercicio feito no Modulo de Desenvolvimento no curso Técninco em Infomática
+Imagens responsivas com o tamanho da tela e tipos de botões padrão, com introdução ao Bootstrap <br>
+Exercicio feito no Modulo de Desenvolvimento no curso Técnico em Infomática
 
 
 ## ⚙ Linguagens Utilizadas:

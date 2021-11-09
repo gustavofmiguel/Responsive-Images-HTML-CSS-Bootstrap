@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+.coluna1{
+    border: 1px solid #36ae26;
+    background: #fe9d9d;
+}
+
+.coluna2{
+    background: #5bf946;
+    border: 1px double #36ae26;
+}
+
+.imagemuva{
+    background-color: black;
+    opacity: 50%;
+}
+
+.uva{
+    opacity: 50%;
+}
+
+.navbar-nav{
+    color: chartreuse;
+    font-family:sans-serif;
+    background-color: #9ab2;
+    font-size: 15px;
+}
+
+
+#text1 a{
+    color:darkgray;
+    
+}
+#text1 a:hover{
+    color: black;
+}

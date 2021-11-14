@@ -13,7 +13,7 @@ Exercicio feito no Modulo de Desenvolvimento no curso Técnico em Infomática
 ## 📸 Demonstração:
 
 <p float="left">
-<img src="https://media.discordapp.net/attachments/879870124813856819/907732562296848394/unknown.png?width=728&height=429" width="700" hegth="700" alt="print da tela com as imagens responsivas"/>
+<img src="https://media.discordapp.net/attachments/879870124813856819/907732562296848394/unknown.png?width=691&height=408"/>
 <br>
   
 ### Tipos de Botões:

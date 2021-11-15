@@ -4,7 +4,7 @@ Imagens responsivas com o tamanho da tela e tipos de botões padrão, com introd
 Exercicio feito no Modulo de Desenvolvimento no curso Técnico em Infomática
 
 
-## ⚙ Linguagens Utilizadas:
+## ⚙ Tecnologias Utilizadas:
 
 <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - HTML <br>
 <img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - CSS <br>
